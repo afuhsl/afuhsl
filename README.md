@@ -1,6 +1,6 @@
 # Hello, I'm Andres Noriega!
 
-I am a Computer Systems Engineering student at the Universidad Autonoma de. I have a strong passion for technology and am constantly expanding my knowledge in various programming languages and related technologies.
+I am a Computer Systems Engineering student at the Universidad Autonoma de Aguascalientes. I have a strong passion for technology and am constantly expanding my knowledge in various programming languages and related technologies.
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, R, Java, C/C++
