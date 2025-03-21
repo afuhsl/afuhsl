@@ -8,4 +8,8 @@ I am a Computer Systems Engineering student at the Universidad Autonoma de Aguas
 
 I love working on projects that challenge my skills and allow me to learn new things. Feel free to check out my repositories and connect with me!
 
-## Contact
+## My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afuhslb&show_icons=true&count_private=true&hide=prs)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afuhsl&layout=compact)
