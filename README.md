@@ -24,13 +24,19 @@ Firebase ( academic projects)
 
 ## Soft Skills
 Teamwork
+
 Effective communication
+
 Adaptability
+
 Critical thinking
+
 Proactivity
+
 Problem solving
 
-##Constant Learner
+
+## Constant Learner
 I am currently exploring different areas of software development, with particular interest in backend, web development, and emerging technologies.
 I love working on projects that challenge my skills and allow me to learn new things. Feel free to check out my repositories and connect with me!
 
