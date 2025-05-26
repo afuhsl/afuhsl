@@ -22,7 +22,7 @@ Windows, Linux
 Docker (basic)
 Firebase ( academic projects)
 
-##Soft Skills
+## Soft Skills
 Teamwork
 Effective communication
 Adaptability
